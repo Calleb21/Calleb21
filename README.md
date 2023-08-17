@@ -15,8 +15,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
-
-<div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edufrasson&" alt="edufrasson" /></p></div>
  
   ### Follow me on social media below!!
  
